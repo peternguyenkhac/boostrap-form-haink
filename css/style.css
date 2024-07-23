@@ -1,0 +1,50 @@
+form {
+    background-color: #e9ecef;
+}
+
+form label {
+    color: #66669a;
+}
+
+.date-input{
+    width: 30% !important;
+}
+
+.sub-input, .sub-input:focus{
+    background-color: #f1f2f3;
+}
+
+
+.input-select .input-sm {
+    width: 25%;
+}
+
+.input-select .input-lg {
+    width: 50%;
+}
+
+.input-select .input-group{
+    width: 70%;
+}
+
+.input-select-lg .input-sm{
+    width: 20%;
+}
+
+.input-select-lg .input-lg{
+    width: 70%;
+}
+
+.form-header input {
+    width: 15%;
+}
+
+.form-header select {
+    width: 15%;
+}
+
+table thead{
+    background-color: #c1e2fc;
+}
+
+
